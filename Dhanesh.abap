@@ -65,8 +65,6 @@ FUNCTION z_mrs_book_default.
 * Implement suitable error handling here
     ENDIF.
 
-
-
   ENDIF.
 
 ENDFUNCTION.
